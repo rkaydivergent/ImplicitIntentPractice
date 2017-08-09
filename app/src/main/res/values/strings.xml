@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ImplicitIntentPractice</string>
+    <string name="enter_website">Enter Website</string>
+    <string name="search">Search</string>
+    <string name="enter_location">Enter Location</string>
+    <string name="find">Find</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="share">Share</string>
+    <string name="enter_phone_no">Enter Phone no</string>
+    <string name="call">Call</string>
+    <string name="take_a_photo">Take a Photo</string>
+    <string name="sms">SMS</string>
+</resources>
